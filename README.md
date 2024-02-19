@@ -7,10 +7,9 @@ This repository documents my learning journey through **Striver's A 2 Z DSA** ov
 2. High-quality lectures offer comprehensive explanations.
 3. While doubt support isn't directly provided, a vibrant community of over 250,000 individuals actively engage in discussions and support each other.
 4. What you'll find here:
-
-**Code solutions:** Implementations of various DSA concepts in Go Lang, following Striver's guidance.
-**Notes and explanations:** Personal notes and annotations to enhance understanding and memory retention.
-**Challenges and practice:** Exercises and problems to test my knowledge and push my learning further.
+    1. **Code solutions:** Implementations of various DSA concepts in Go Lang, following Striver's guidance.
+    2. **Notes and explanations:** Personal notes and annotations to enhance understanding and memory retention.
+    3. **Challenges and practice:** Exercises and problems to test my knowledge and push my learning further.
 
 ### Getting started:
 

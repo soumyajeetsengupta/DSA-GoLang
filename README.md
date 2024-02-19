@@ -27,7 +27,7 @@ Go provides a variety of built-in data types to represent different kinds of inf
 
 * **rune:** Represents a single Unicode code point (character).
 * **complex64/complex128:** Stores complex numbers with 32/64-bit floating-point precision.
-* **uintptr:** [Advanced stuff, read about this ***[clickhere.](https://stackoverflow.com/questions/59042646/whats-the-difference-between-uint-and-uintptr-in-golang)***
+* **uintptr:** Advanced stuff, read about this ***[clickhere.](https://stackoverflow.com/questions/59042646/whats-the-difference-between-uint-and-uintptr-in-golang)***
 * **byte:** Represents 8-bit unsigned integers (0-255).
 * **int:** Represents signed integers within a specific size range (e.g., 16, 32, 64 bits).
 * **uint:** Represents unsigned integers within a specific size range (e.g., 16, 32, 64 bits).

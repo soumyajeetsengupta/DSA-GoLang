@@ -16,3 +16,32 @@ This repository documents my learning journey through **Striver's A 2 Z DSA** ov
 1. Clone this repository: `git clone https://github.com/your-username/dsa-go-striver.git`
 2. Open the directory in your preferred code editor.
 3. Follow along with the Striver's A 2 Z DSA videos, implementing the concepts and exploring the corresponding code in this repository.
+
+# Go Lang Basics and Syntaxes:
+
+## Data Types in Go
+
+Go provides a variety of built-in data types to represent different kinds of information:
+
+### Basic Types:
+
+* **rune:** Represents a single Unicode code point (character).
+* **complex64/complex128:** Stores complex numbers with 32/64-bit floating-point precision.
+* **uintptr:** An unsigned integer representing memory addresses.
+* **byte:** Represents 8-bit unsigned integers (0-255).
+* **int:** Represents signed integers within a specific size range (e.g., 16, 32, 64 bits).
+* **uint:** Represents unsigned integers within a specific size range (e.g., 16, 32, 64 bits).
+    * **(#unsigned int = uint):** Go implicitly treats `uint` as the equivalent of `unsigned int`.
+* **float32/float64:** Represents single/double-precision floating-point numbers.
+* **bool:** Represents boolean values (true or false).
+* **string:** Represents sequences of Unicode characters.
+
+### Derived Types:
+
+* **Pointers:** Variables storing memory addresses of other variables. Enable reference passing to functions.
+* **Arrays:** Fixed-size collections of elements of the same type. Accessed using indices.
+* **Structures:** User-defined collections of named variables (fields) of different types.
+* **Maps:** Unordered collections of key-value pairs.
+* **Interfaces:** Define sets of methods that specific types can implement.
+
+This is just a brief overview of data types in Go. Remember to explore further and dive deeper into each type and its functionalities based on your specific needs.

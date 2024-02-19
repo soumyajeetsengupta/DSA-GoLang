@@ -13,7 +13,7 @@ This repository documents my learning journey through **Striver's A 2 Z DSA** ov
 
 ### Getting started:
 
-1. Clone this repository: `git clone https://github.com/your-username/dsa-go-striver.git`
+1. Clone this repository: `git clone git@github.com:soumyajeetsengupta/DSA-GoLang.git`
 2. Open the directory in your preferred code editor.
 3. Follow along with the Striver's A 2 Z DSA videos, implementing the concepts and exploring the corresponding code in this repository.
 

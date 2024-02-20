@@ -6,6 +6,7 @@ import (
 
 func main() {
 	var num1, num2 int;
+	var GCD int = 1;
 	fmt.Print("Num1: ");
 	fmt.Scanf("%d\n", &num1);
 	fmt.Print("Num2: ");
@@ -24,11 +25,11 @@ func main() {
 
 	for i := 1; i <= min; i++ {
 		if (num1 % i == 0) && (num2 % i == 0) {
-			min = i;
+			GCD = i
 		}
 	}
 
-	fmt.Println("The GCD is: ", min);
+	fmt.Println("The GCD is: ", GCD);
 
 	/* Most Optmial
 	for ;num1 % num2 != 0; {
